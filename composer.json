@@ -1,0 +1,15 @@
+{
+    "name": "tucha/treinando-interfaces",
+    "autoload": {
+        "psr-4": {
+            "Treinando\\Interfaces\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro",
+            "email": "contato.nevespedro@gmail.com"
+        }
+    ],
+    "require": {}
+}
